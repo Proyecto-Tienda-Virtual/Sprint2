@@ -498,7 +498,7 @@ public class Main {
         System.out.println("Usuario no encontrado");
     }
 
-    //--------------------------------------------
+    //Estos son datos precargados para los test --------------------------------------------
     public static void agregarDatosEmpresa() {
 
 
