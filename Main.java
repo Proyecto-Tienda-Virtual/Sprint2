@@ -1,4 +1,5 @@
 //  Comentario 1- Rol: Administrador de BD
+// Comentario 2 - Rol : Analista
 
 package Control;
 import Modelo.*;
