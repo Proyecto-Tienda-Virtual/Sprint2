@@ -2,6 +2,7 @@
 // Comentario 2 - Rol : Analista
 // Comentario 3 - Rol: Desarrollador
 // Comentario 4 - Rol: Product owner
+// Comentario 5 - Rol: Scrum master
 package Control;
 import Modelo.*;
 import java.util.ArrayList;
